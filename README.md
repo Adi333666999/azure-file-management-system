@@ -1,3 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black)
+
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4)
+
+![SQL](https://img.shields.io/badge/Azure-SQL-blue)
+
+![Blob Storage](https://img.shields.io/badge/Azure-Blob%20Storage-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Azure File Management System
 
 ## Overview

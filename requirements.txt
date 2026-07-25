@@ -1,0 +1,6 @@
+Flask
+gunicorn
+azure-storage-blob
+python-dotenv
+pymssql
+python-dotenv
